@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "762101658584",
+    "project_id": "tourism-47993",
+    "storage_bucket": "tourism-47993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762101658584:android:236c76c6c85d8c02e578ad",
+        "android_client_info": {
+          "package_name": "mx.hackademy.sinaloa.digital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762101658584-t6ejqegdbm0pjjfc6dfq53dvso42ddu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.hackademy.sinaloa.digital",
+            "certificate_hash": "12dd838b5f4bda38a448c0aa5eac4d18db2e9a6a"
+          }
+        },
+        {
+          "client_id": "762101658584-qv08aqh8o5ol679n9udvtc9e5a7qb1t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXq35DAJ-ezTTvdGs3X3ZQ7FlJMlfspuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762101658584-qv08aqh8o5ol679n9udvtc9e5a7qb1t5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "762101658584-1t946pdi1p72nsloumrvf5edik8776o8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "mx.hackademy.sinaloa.digital"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

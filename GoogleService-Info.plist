@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>762101658584-1t946pdi1p72nsloumrvf5edik8776o8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.762101658584-1t946pdi1p72nsloumrvf5edik8776o8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>762101658584-t6ejqegdbm0pjjfc6dfq53dvso42ddu8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUqAOy3L8NuEfA_3lfDWXVATDim0RLIcQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>762101658584</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>mx.hackademy.sinaloa.digital</string>
+	<key>PROJECT_ID</key>
+	<string>tourism-47993</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tourism-47993.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:762101658584:ios:942d47373fb87c76e578ad</string>
+</dict>
+</plist>

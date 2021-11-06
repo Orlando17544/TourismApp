@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <title>Restablecer contraseña</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+      document.addEventListener("DOMContentLoaded", function(event) {
+	// Find the "a" tag
+        var link = document.querySelector('a');
+
+	// Get the url of this page
+        var url = document.URL;
+
+	// Find the token
+	const regex = /(?:token=)(\w+)/;
+	const token = url.match(regex)[1];
+
+        // Append the token to the link
+        link.href = link.href + "token=" + token;
+	});
+    </script>
+</head>
+
+  <body>
+    <h2>Da click en el link para restablecer tu contraseña</h2>
+    <ul style="margin-left: 0; padding-left: 15px;">
+      <li>
+        <a href="turismo://">
+          Restablecer contraseña
+        </a>
+      </li>
+    </ul>
+</body>
+</html>

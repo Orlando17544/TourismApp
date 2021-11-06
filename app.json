@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "scheme": "turismo",
+    "facebookScheme": "fb3744755978983279",
+    "facebookAppId": "3744755978983279",
+    "facebookDisplayName": "Tourism",
+    "name": "Sinaloa Digital",
+    "slug": "turismo-movil",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/ic_launcher_round/mipmap-xhdpi/ic_launcher.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "mx.hackademy.sinaloa.digital",
+      "config": {
+	      "googleSignIn": {
+		      "reservedClientId": "com.googleusercontent.apps.762101658584-1t946pdi1p72nsloumrvf5edik8776o8"
+	      },
+	      "googleMapsApiKey": "AIzaSyDkaOkILXFgvBvbNSucPG7Y1R5VTyDW6nY"
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "mx.hackademy.sinaloa.digital",
+      "googleServicesFile": "./google-services.json",
+      "config": {
+	      "googleMaps": {
+		      "apiKey": "AIzaSyDYPz1YfPScYi-8_Cwcgy2Bz9RYF6FJbhs"
+	      }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
