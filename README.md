@@ -52,7 +52,7 @@
 
 ## Imágenes
 
-![1](./1.png)
-![2](./2.png)
-![3](./3.png)
-![4](./4.png)
+![1](https://github.com/Orlando17544/TourismApp/blob/main/1.jpeg)
+![2](https://github.com/Orlando17544/TourismApp/blob/main/2.jpeg)
+![3](https://github.com/Orlando17544/TourismApp/blob/main/3.jpeg)
+![4](https://github.com/Orlando17544/TourismApp/blob/main/4.jpeg)
