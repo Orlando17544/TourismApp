@@ -49,3 +49,10 @@
 -   [Diseño anterior](https://drive.google.com/drive/folders/1FR4rS1hqF70ah5zAZNhCJgb4U80jhvEz)
 
 -   [Historias de usuario](https://docs.google.com/spreadsheets/d/1Yu3K4S_1CE_w4ja2yqMxrcnMazLbR5_noL9SVxWIiFo/edit#gid=1607209987)
+
+## Imágenes
+
+![1](https://1.png)
+![2](https://2.png)
+![3](https://3.png)
+![4](https://4.png)
