@@ -52,7 +52,7 @@
 
 ## Imágenes
 
-![1](https://1.png)
-![2](https://2.png)
-![3](https://3.png)
-![4](https://4.png)
+![1](./1.png)
+![2](./2.png)
+![3](./3.png)
+![4](./4.png)
