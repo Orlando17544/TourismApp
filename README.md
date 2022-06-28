@@ -50,9 +50,6 @@
 
 -   [Historias de usuario](https://docs.google.com/spreadsheets/d/1Yu3K4S_1CE_w4ja2yqMxrcnMazLbR5_noL9SVxWIiFo/edit#gid=1607209987)
 
-## Imágenes
+## Preview
 
-![1](https://github.com/Orlando17544/TourismApp/blob/main/1.jpeg)
-![2](https://github.com/Orlando17544/TourismApp/blob/main/2.jpeg)
-![3](https://github.com/Orlando17544/TourismApp/blob/main/3.jpeg)
-![4](https://github.com/Orlando17544/TourismApp/blob/main/4.jpeg)
+<img src="https://github.com/Orlando17544/Portfolio/blob/main/src/assets/tourismApp.gif" alt="Simplefolio" width="900px" />
