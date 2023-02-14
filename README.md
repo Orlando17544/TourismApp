@@ -1,3 +1,56 @@
+# App Turismo - Hackademy
+
+React Native application to help users interested in traveling to satisfy their needs during their stay in the place where they are, facilitating the search for restaurants, hotels, museums, theaters, etc.
+
+## Description
+
+Create an application to visualize different touristic destinations. The user can search for information about different places like restaurants, hotels, museums, theaters, etc. The user can also contact the places using WhatsApp, phone, .
+The user can obtain relevant information such as schedules, contact, qualification, and prices.
+
+### Features
+
+1. The app has 227 songs from 16 artists (Ariana Grande, Daft Punk, Eminem, Jimi Hendrix, John Lennon, Led Zeppelin, Luis Fonsi, Michael Jackson, Nirvana, Pink Floyd, Queen, Taylor Swift, Jimi Hendrix, The plastic Ono Band, The Rolling Stones, Wisin & Yandel)
+2. The songs are only samples.
+3. Each artist has different number of songs.
+4. Each song can be downloaded, listened and deleted by the user.
+5. Can be created a playlist to store the songs the user wants.
+6. Each song and each playlist can be edited.
+7. Each song can be played, stopped or changed by another one.
+
+## Preview
+
+<img src="https://github.com/Orlando17544/Portfolio/blob/main/src/assets/musicPlayer.gif" alt="Simplefolio" width="900px" />
+
+## Stack
+
+- Android SDK
+- Kotlin
+- Architecture components (ViewModel and LiveData)
+- Room (SQLite)
+- RecyclerView
+- Retrofit
+- MediaPlayer
+- Google Cloud Storage
+
+## Install
+
+Just download the app on this [url](https://github.com/Orlando17544/Portfolio/raw/main/musicPlayer.apk) and install it in an android phone.
+
+---
+
+### If you want to run the project in a computer with Android Studio, you should follow this steps:
+
+1. Clone the project
+```
+git clone https://github.com/Orlando17544/MusicPlayer.git
+```
+
+2. Start Android Studio
+
+3. Open the project
+
+4. Start the app
+
 # **App Turismo - Hackademy**
 
 ## General
