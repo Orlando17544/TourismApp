@@ -54,28 +54,19 @@ Just download the app on this [url](https://github.com/Orlando17544/Portfolio/ra
 ```
 git clone https://github.com/Orlando17544/TourismApp.git
 ```
-2. Start an emulator
 
-3. Start metro
-```
-npx react-native start
-```
+2. Change directory to the project
 
-4. Change directory to the project
-
-5. Install dependencies
+3. Install dependencies
 ```
 npm install
 ```
 
-6. Start the app
-
-Android:
+4. Start a development server
 ```
-npx react-native run-android
+npx expo start
 ```
 
-iOS:
-```
-npx react-native run-ios
-```
+5. Download Expo Go app in your phone
+
+6. Scan the QR code with your phone
