@@ -7,7 +7,7 @@ React Native application to help users interested in traveling to satisfy their 
 Create an application to visualize different touristic destinations. The user can search for information about different places like restaurants, hotels, museums, theaters, etc. The user can also contact the places using WhatsApp and Phone number.
 The user can obtain relevant information such as schedules, contact, reviews, location and prices.
 
-### Requeriments
+## Requeriments
 
 1. Must have categories and subcategories for touristic destinations.
 2. Each touristic destination must have:
@@ -30,10 +30,6 @@ The user can obtain relevant information such as schedules, contact, reviews, lo
 6. Show tourist destinations with Google Maps.
 7. The user can rate a touristic destination.
 8. Activate the gps to select the nearest city according to the location of the user.
-
-## Preview
-
-<img src="https://github.com/Orlando17544/Portfolio/blob/main/src/assets/tourismApp.gif" alt="Simplefolio" width="900px" />
 
 ## Stack
 
@@ -70,3 +66,7 @@ npx expo start
 5. Download Expo Go app in your phone
 
 6. Scan the QR code with your phone
+
+## Preview
+
+<img src="https://github.com/Orlando17544/Portfolio/blob/main/src/assets/tourismApp.gif" alt="Simplefolio" width="900px" />
