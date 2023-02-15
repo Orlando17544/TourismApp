@@ -65,7 +65,7 @@ npx react-native start
 
 5. Install dependencies
 ```
-Install dependencies
+npm install
 ```
 
 6. Start the app
