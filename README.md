@@ -61,9 +61,14 @@ git clone https://github.com/Orlando17544/TourismApp.git
 npx react-native start
 ```
 
-4. Change directory to the project 
+4. Change directory to the project
 
-3. Start the app
+5. Install dependencies
+```
+Install dependencies
+```
+
+6. Start the app
 
 Android:
 ```
