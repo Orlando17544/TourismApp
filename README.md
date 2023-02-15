@@ -48,7 +48,7 @@ Just download the app on this [url](https://github.com/Orlando17544/Portfolio/ra
 
 ---
 
-### If you want to run the project in a computer with Android Studio, you should follow this steps:
+### If you want to run the project from source code, you should follow this steps:
 
 1. Clone the project
 ```
