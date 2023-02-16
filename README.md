@@ -33,7 +33,8 @@ The user can obtain relevant information such as schedules, contact, reviews, lo
 
 ## Stack
 
-- React 16.13.1
+- React: 16.13.1
+- Expo: 41.0.0
 - Javascript
 - Axios
 - Async Storage
