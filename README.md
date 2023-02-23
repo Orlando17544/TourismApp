@@ -36,8 +36,14 @@ The user can obtain relevant information such as schedules, contact, reviews, lo
 - React: 16.13.1
 - Expo: 41.0.0
 - Javascript
-- Axios
-- Async Storage
+- Axios: 0.21.1
+- Async Storage: 1.17.3
+
+## Tools used:
+
+- Vim 8.2.4174
+- GitHub (GitHub Issues, GitHub projects) 
+- Git: 2.30.2
 
 ## Install
 
